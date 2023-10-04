@@ -1,12 +1,11 @@
 # Lab Report 1
 ---
-```
+```Unix
 [user@sahara ~/lecture1]$ cd
 [user@sahara ~]$ cd /home
 [user@sahara ~]$ cd /home/lecture1/messages/en-us.txt
 bash: cd: /home/lecture1/messages/en-us.txt: Not a directory
 ```
-![image](https://github.com/ssarahjackson/cse15l-lab-reports/assets/46005666/7ce37120-47ac-46e4-b58d-149fd53f6daa)
 
 The working directory when I first ran this code was /home/lecture1. When I used this command without any arguments it defaulted to changing the working directory to the home directory. It worked properly when I gave it a valid directory, but gave an error when I tried to give it a file. This error makes sense since I'm trying to change the working directory this obviously can't be a file.
 
