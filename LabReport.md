@@ -42,7 +42,7 @@ public class Hello {
 cat: /home/lecture1: Is a directory
 [user@sahara ~]$ cat
 
-f
+
 
 
 ```
