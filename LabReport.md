@@ -42,9 +42,9 @@ public class Hello {
 cat: /home/lecture1: Is a directory
 [user@sahara ~]$ cat
 
-
+f
 
 
 ```
 
-My working directory was the home directory when I ran these commands. When I gave it a valid file as an argument it printed out the contents of the Java file. On the other hand, it gave me an error when I gave it a directory but this makes sense since it's trying to either create or print out the contents of a file. Finally, it had a strange reaction to being given zero arguments where it just let me endlessly press enter and copied any text I tried to put in. I had to use `ctrl + c` to break out of the infinite looping nature of this error. This occuring does make sense since this command requires a file argument and it was given none so it's just infinitely waiting for a file name to be given to it for it to print the contents of. 
+My working directory was the home directory when I ran these commands. When I gave it a valid file as an argument it printed out the contents of the Java file. On the other hand, it gave me an error when I gave it a directory but this makes sense since it's trying to either create or print out the contents of a file. Finally, it had a strange reaction to being given zero arguments where it just let me endlessly press enter and copied any text I tried to put in. I had to use `ctrl + c` to break out of the infinite loop. This infinite loop occuring does make sense since this command requires a file argument and it was given none so it's just stuck infinitely waiting for a file name to be given to it for it to print the contents of. 
