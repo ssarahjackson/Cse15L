@@ -1,6 +1,6 @@
 # Lab Report 4
 ---
-
+ 
 # Step 4:
 
 For this step, I had to type `ssh cs15lfa23ra@ieng6-201.ucsd.edu`. To save time I had this typed somewhere else, so all I had to do was highlight it by triple left-clicking my mouse, pressing `<Ctrl-C>`, and then navigating to VS code and doing `<Ctrl-V> <enter>`.
