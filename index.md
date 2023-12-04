@@ -5,3 +5,5 @@
 [Lab report3](https://ssarahjackson.github.io/cse15l-lab-reports/LabReport3)
 
 [Lab report4](https://ssarahjackson.github.io/cse15l-lab-reports/LabReport4)
+
+[Lab report5](https://ssarahjackson.github.io/cse15l-lab-reports/LabReport5)
